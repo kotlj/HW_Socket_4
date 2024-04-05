@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\HW_Server_4\HW_Server_4\bin\Debug\HW_Server_4.exe.config
+C:\Users\Admin\source\repos\HW_Server_4\HW_Server_4\bin\Debug\HW_Server_4.exe
+C:\Users\Admin\source\repos\HW_Server_4\HW_Server_4\bin\Debug\HW_Server_4.pdb
+C:\Users\Admin\source\repos\HW_Server_4\HW_Server_4\obj\Debug\HW_Server_4.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\HW_Server_4\HW_Server_4\obj\Debug\HW_Server_4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HW_Server_4\HW_Server_4\obj\Debug\HW_Server_4.exe
+C:\Users\Admin\source\repos\HW_Server_4\HW_Server_4\obj\Debug\HW_Server_4.pdb
